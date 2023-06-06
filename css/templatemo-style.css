@@ -1060,9 +1060,9 @@ footer {
     }
 }
 
-#game-box{
+#content-box{
     width: 50;
-    height: 10;
+    height: auto;
     background-color: rgb(217, 250, 165);
     top: auto;
     line-height: 2;
@@ -1070,7 +1070,7 @@ footer {
     font-size: 20px;
     font-family: 'Times New Roman', Times, serif;
 }
-#game-box2{
+#content-box2{
     width: 50;
     height: 10;
     background-color: rgb(217, 250, 165);
