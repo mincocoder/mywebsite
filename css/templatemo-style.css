@@ -179,6 +179,7 @@ html {
     border-top: 45px solid #98d361;
 }
 
+
 .cd-container {
     width: 90%;
     max-width: 1170px;
@@ -1101,6 +1102,7 @@ h2{
 }
 #author{
     text-align: center;
+    image-rendering: auto; 
     font-size: 20px;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
